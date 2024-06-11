@@ -21,7 +21,7 @@
     new_net_name = 'sagb_NeNa_MgAl.net'
     show_net_species_info = .true.
 
-    file_for_uniform_xa = 'new_abundaces_Fe_H-2.0.data'  
+    file_for_uniform_xa = 'abundaces_Fe_H-2.0.data'  
     set_uniform_initial_xa_from_file = .true.
     set_uniform_xa_from_file = .true.
 
